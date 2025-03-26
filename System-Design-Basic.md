@@ -52,6 +52,4 @@ An **IP address** is a numerical label assigned to each device connected to a ne
 
 📌 **Next Topic:** *Scaling Strategies (Load Balancers, Cloud Computing, etc.)*
 
-### 🖼 Diagram:
-*(Illustration showing a single server struggling with too much traffic, leading to a need for scaling)*
 
